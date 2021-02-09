@@ -1,0 +1,12 @@
+C:\Users\Niles\Downloads\LogininApp\LogininApp\bin\Debug\LogininApp.exe.config
+C:\Users\Niles\Downloads\LogininApp\LogininApp\bin\Debug\LogininApp.exe
+C:\Users\Niles\Downloads\LogininApp\LogininApp\bin\Debug\LogininApp.pdb
+C:\Users\Niles\Downloads\LogininApp\LogininApp\obj\Debug\LogininApp.csprojResolveAssemblyReference.cache
+C:\Users\Niles\Downloads\LogininApp\LogininApp\obj\Debug\LogininApp.MainScreen.resources
+C:\Users\Niles\Downloads\LogininApp\LogininApp\obj\Debug\LogininApp.Properties.Resources.resources
+C:\Users\Niles\Downloads\LogininApp\LogininApp\obj\Debug\LogininApp.csproj.GenerateResource.Cache
+C:\Users\Niles\Downloads\LogininApp\LogininApp\obj\Debug\LogininApp.exe
+C:\Users\Niles\Downloads\LogininApp\LogininApp\obj\Debug\LogininApp.pdb
+C:\Users\Niles\Downloads\LogininApp\LogininApp\obj\Debug\LogininApp.UserEditTable.resources
+C:\Users\Niles\Downloads\LogininApp\LogininApp\obj\Debug\LogininApp.StartUp.resources
+C:\Users\Niles\Downloads\LogininApp\LogininApp\obj\Debug\LogininApp.AdminLogin.resources
